@@ -4,6 +4,8 @@ CO-OPERATION WITH PASCO COUNTY, FLORIDA.
 Some Files will not show actual text and need to be downloaded to view
 as they are scanned images of origninal documents.
 
+(pkg or apt) install git
+git clone 
 
 A systematic weaponization of the judicial system, corrupt county and state government 
 in co-operation with former active duty military
